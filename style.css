@@ -15,4 +15,16 @@ body{
     flex-wrap: gap;
 }
 
+nav{
+    height: 50px;
+    background-color: deepskyblue;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
 
